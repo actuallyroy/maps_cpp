@@ -1,6 +1,6 @@
 ## Maps Header file for C++
 * ## __Constructor__
-  ##### ```Maps<keys_variable_type, values_variable_type>```
+  ##### ```Map<keys_variable_type, values_variable_type>```
   creates a map object
   
 * ## __insert__
