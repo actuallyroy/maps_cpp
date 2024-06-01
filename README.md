@@ -1,7 +1,3 @@
-Sure, here is a README file for your C++ Map implementation:
-
----
-
 # Map Implementation in C++
 
 This project contains a template-based Map class in C++ which is implemented using two custom List objects to store keys and values.
@@ -82,10 +78,3 @@ Returns a list of all keys in the map.
 
 #### `List<T2> getValues()`
 Returns a list of all values in the map.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this README file based on your specific requirements or additional features you might add in the future.
